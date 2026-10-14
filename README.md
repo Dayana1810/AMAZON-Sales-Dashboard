@@ -11,5 +11,5 @@ This project analyzes Amazon product sales performance using an interactive dash
 - Sidebar category and quarter filters
 - Dark dashboard styling
 
-
-
+## Data Set
+https://github.com/Dayana1810/AMAZON-Sales-Dashboard/blob/main/Amazon%20Data.xlsx
