@@ -12,11 +12,12 @@ This project analyzes Amazon product sales performance using an interactive dash
 - Dark dashboard styling
 
 ## Data Set Link
-### Tools and Technologies
+- <a href="https://github.com/Dayana1810/AMAZON-Sales-Dashboard/blob/main/Amazon%20Data.xlsx">Dataset</a>
 
+### Tools and Technologies
 * **Power BI:** Dashboard creation and data visualization.
 * **Microsoft Excel:** Data cleaning and preparation.
 * **Power Query:** Data transformation and preprocessing.
 * **DAX:** KPI calculations and sales metrics.
 * **Data Visualization:** Charts, graphs, and interactive filters.
-- <a href="https://github.com/Dayana1810/AMAZON-Sales-Dashboard/blob/main/Amazon%20Data.xlsx">Dataset</a>
+
