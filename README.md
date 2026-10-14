@@ -22,6 +22,8 @@ This project analyzes Amazon product sales performance using an interactive dash
 * **Data Visualization:** Charts, graphs, and interactive filters.
 
 ##  Process of Amazon Sales Analysis Dashboard
+- <a href="https://github.com/Dayana1810/AMAZON-Sales-Dashboard/blob/main/Screenshot%202026-10-13%20093133.png">Dashboard</a>
+
 - Collected Amazon product sales data, including product categories, sales amounts, products sold, and customer reviews.
 - Removed duplicate records, checked missing values, corrected data formats, and ensured data accuracy.
 - Organized the dataset and prepared the required columns for sales analysis and reporting.
@@ -43,7 +45,7 @@ v Analyzed overall sales performance, identified top-performing categories and p
 Developed an interactive Amazon Sales Analysis Dashboard to monitor KPIs, track sales trends, compare product categories, and identify top-performing products for better business decision-making.
 
 ## Final Dashboard
-- <a href="https://github.com/Dayana1810/AMAZON-Sales-Dashboard/blob/main/Screenshot%202026-10-13%20093133.png">Dashboard</a>
+
 
 
 
