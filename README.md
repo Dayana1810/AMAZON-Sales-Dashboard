@@ -46,6 +46,7 @@ Developed an interactive Amazon Sales Analysis Dashboard to monitor KPIs, track 
 
 ## Final Dashboard
 
+![Uploading Screenshot 2026-10-13 093133.png…]()
 
 
 
