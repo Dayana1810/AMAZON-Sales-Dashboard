@@ -21,3 +21,23 @@ This project analyzes Amazon product sales performance using an interactive dash
 * **DAX:** KPI calculations and sales metrics.
 * **Data Visualization:** Charts, graphs, and interactive filters.
 
+##  Process of Amazon Sales Analysis Dashboard
+- Collected Amazon product sales data, including product categories, sales amounts, products sold, and customer reviews.
+- Removed duplicate records, checked missing values, corrected data formats, and ensured data accuracy.
+- Organized the dataset and prepared the required columns for sales analysis and reporting.
+- Created four key performance indicators:
+* **YTD Sales:** $2.18M
+* **QTD Sales:** $811.09K
+* **YTD Products Sold:** 27.75K
+* **YTD Reviews:** 19.42M
+- Created a line chart to analyze monthly sales trends and identify high- and low-performing months.
+- Created a bar chart to compare weekly sales performance and identify sales fluctuations.
+- Designed a table to compare YTD sales, QTD sales, and percentage contribution across product categories.
+- Created a horizontal bar chart to identify the five products generating the highest year-to-date sales.
+- Created a bar chart to identify the five products receiving the highest number of customer reviews.
+- Added product category filters, a quarter filter, and navigation buttons to make the dashboard interactive.
+- Applied a dark theme, consistent colors, clear labels, and organized charts to improve readability and presentation.
+v Analyzed overall sales performance, identified top-performing categories and products, and evaluated monthly and weekly sales trends to support business decisions.
+
+### Overall Outcome
+Developed an interactive Amazon Sales Analysis Dashboard to monitor KPIs, track sales trends, compare product categories, and identify top-performing products for better business decision-making.
