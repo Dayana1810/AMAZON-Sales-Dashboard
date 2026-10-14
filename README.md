@@ -41,3 +41,25 @@ v Analyzed overall sales performance, identified top-performing categories and p
 
 ### Overall Outcome
 Developed an interactive Amazon Sales Analysis Dashboard to monitor KPIs, track sales trends, compare product categories, and identify top-performing products for better business decision-making.
+
+## Final Dashboard
+- <a href="https://github.com/Dayana1810/AMAZON-Sales-Dashboard/blob/main/Screenshot%202026-10-13%20093133.png">Dashboard</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
