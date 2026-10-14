@@ -1,6 +1,6 @@
 # Amazon Products Sales Analysis Dashboard
 
-A Streamlit + Plotly recreation of the supplied Amazon Products sales dashboard screenshot.
+
 
 ## Features
 - KPI cards for YTD sales, QTD sales, products sold, and reviews
