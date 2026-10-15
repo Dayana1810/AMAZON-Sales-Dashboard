@@ -45,7 +45,7 @@ v Analyzed overall sales performance, identified top-performing categories and p
 Developed an interactive Amazon Sales Analysis Dashboard to monitor KPIs, track sales trends, compare product categories, and identify top-performing products for better business decision-making.
 
 ## Final PowerBi Dashboard
-
+## Amazon Sales Dashboard
 <img width="1315" height="730" alt="Screenshot 2026-10-13 093133" src="https://github.com/user-attachments/assets/92156582-1f0b-4b21-b33a-2e706f289c25" />
 
 
