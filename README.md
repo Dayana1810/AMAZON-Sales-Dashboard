@@ -48,7 +48,9 @@ Developed an interactive Amazon Sales Analysis Dashboard to monitor KPIs, track 
 ### Amazon Sales Dashboard
 <img width="1315" height="730" alt="Screenshot 2026-10-13 093133" src="https://github.com/user-attachments/assets/92156582-1f0b-4b21-b33a-2e706f289c25" />
 
+## Final Conclusion
 
+The Amazon Sales Analysis Dashboard provides valuable insights into sales performance, product categories, customer reviews, and monthly trends. Using Power BI, the dashboard helps identify top-selling products, monitor key performance indicators, and support data-driven business decisions.
 
 
 
